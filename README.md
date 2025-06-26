@@ -21,5 +21,5 @@ A simple RESTful API for an E-commerce backend built with Django and Django REST
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/ecommerce-api.git
+gh repo clone siamCSEJnU/django-ecommerce-backend
 cd ecommerce-api
