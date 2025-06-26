@@ -33,7 +33,7 @@ pip install django-filter
 
 
 3. **Configurations:** 
- Create a .env file with these variables:
+Create a .env file with these variables:
 
 Get Stripe API keys from Stripe Dashboard
 
@@ -49,7 +49,7 @@ Don't set authorization header like this
 Authorization: Bearer <your_token>
 
  ```
-Use like this
+ Use like this
 ```bash
 Authorization: Token <your_token>
 
