@@ -1,0 +1,25 @@
+# 🛍️ E-commerce API - Django REST Framework
+
+A simple RESTful API for an E-commerce backend built with Django and Django REST Framework.
+
+---
+
+## ✅ Features Implemented
+
+- Custom User Model with Token Authentication
+- Email Verification and Password Reset
+- User Login, Registration, and Profile View
+- Category & Product Management (Create, List, Filter, Search)
+- Pagination Support
+- Ready for Stripe Payment Integration (Base Setup Done)
+- Postman Collection Included
+
+---
+
+## 🚀 Setup Instructions
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/ecommerce-api.git
+cd ecommerce-api
